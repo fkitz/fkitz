@@ -5,3 +5,7 @@ For the past 5 years, I've been developing data-backed solutions for non-profits
 **Software**: PowerBI, Tableau, GIS (*ArcGIS, ArcGIS Online, QGIS*)
 
 **Languages**: SQL, R, Python, HTML, JavaScript, CSS
+
+| Project | Description | Tools |
+| --- | :--- | :--- |
+| [Web Map: Route Planner](https://github.com/fkitz/route-planning-web-map/tree/main) | My goal for my first web map was to build a simple web map for a specific audience. Pathfinder is a route planning application aimed at pedestrians and runners. It showcases my ability to develop a web map and utilize HTML for a targeted audience. | VS Code, ArcGIS JS API, HTML, JS, CSS |
