@@ -2,7 +2,7 @@
 
 For the past 5 years, I've been developing data-backed solutions for non-profits, universities, and companies. These solutions have solved many pressing issues, including improved urban park restoration, increased grant funding acquisitions, and bolstered research publishing.
 
-**Software**: PowerBI, Tableau, GIS (*ArcGIS, ArcGIS Online, QGIS*)
+**Software**: PowerBI, Tableau, GIS (*ArcGIS Pro, ArcGIS Online, QGIS*)
 
 **Languages**: SQL, R, Python, HTML, JavaScript, CSS
 
